@@ -16,7 +16,8 @@
 3. 其中div.v，binbcd8.v，seg7.v，display.v参考自教科书上的案例，其他均为自己编写；
 
 ## 数字钟原理
-
+![RTL图](./Picture/RTL图.jpg)
+![门电路图](./Picture/门电路图.jpg)
 
 
 
