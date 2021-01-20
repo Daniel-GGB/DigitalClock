@@ -1,5 +1,5 @@
 # DigitalClock
-课程设计_数字钟项目
+课程设计_数字钟项目_Verilog HDL
 
 ## [Source](./Source)
  - DigitalClock_top. =>  顶层文件
