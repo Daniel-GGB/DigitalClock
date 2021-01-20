@@ -18,11 +18,11 @@
 ## 数字钟原理
 RTL图:
 
-![RTL图.png](../Picture/RTL图.png)
+![RTL图.png](./Picture/RTL图.png)
 
 门电路图:
 
-![门电路图.png](../Picture/门电路图.png)
+![门电路图.png](./Picture/门电路图.png)
 
 
 
