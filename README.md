@@ -16,6 +16,9 @@
 3. 其中div.v，binbcd8.v，seg7.v，display.v参考自教科书上的案例，其他均为自己编写；
 
 ## 数字钟原理
+
+输入端共有4个，分别是reset、clk、button0、button1。其中reset对数字钟进行同步清零，上升沿触发，相当于数字钟的初始化。clk是晶振的输入端，常用频率为50MHz的晶振作为时钟源。button0
+
 RTL图:
 
 ![RTL图.png](./Picture/RTL图.png)
